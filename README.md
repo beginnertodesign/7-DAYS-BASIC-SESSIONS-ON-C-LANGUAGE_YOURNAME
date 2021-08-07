@@ -1,4 +1,4 @@
-<a href="https://vtu15511.wixsite.com/collaborativelearn"><img src="https://github.com/beginnertodesign/event-posters/blob/main/%40team%20collaborative.png" alt="poster" type="png" width="100%" height="800px"/></a>
+<a href="https://vtu15511.wixsite.com/collaborativelearn"><img src="https://github.com/beginnertodesign/event-posters/blob/main/%40team%20collaborative.png" alt="poster" type="png" width="100%"/></a>
 # HELLO GUYS I'VE COMPLETED THE BASICS OF C-LANGUAGE WITH COLLABORATIVE LEARN CREW ARE YOU INTERESTED TO LEARN THINGS LIKE THIS THEN CLICK ON BELOW IMAGE TO ENROLL FOR THE FUTURE EVENTS
 <hr>
 <h3>If you are interested to learn something new that is more trendy in today then collaborative learn crew will help you to do such great things as they come up with different kind of tech skills and concepts with hands-on experience that are Important in today's technology industry </h3>
